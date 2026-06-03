@@ -1,16 +1,38 @@
-# React + Vite
+ 🛒 E-Commerce Frontend Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **frontend implementation of an e-commerce website** built using **React, Vite, and Tailwind CSS**.
+The design is based on a **Figma UI template** and developed as part of a **Frontend Development Internship Task**.
 
-Currently, two official plugins are available:
+The website showcases an online shopping interface including product categories, deals, and a modern UI layout.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 Live Website
 
-## React Compiler
+🔗 https://ecommerce-websitehafi.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📁 GitHub Repository
 
-## Expanding the ESLint configuration
+🔗 https://github.com/Hafiza-sadia/ecommerce-frontend-design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚙️ Technologies Used
+
+* React.js
+* Vite
+* Tailwind CSS
+* JavaScript (ES6)
+* HTML5
+* CSS3
+✨ Features
+
+* Responsive desktop layout based on Figma design
+* Modern navigation bar with search functionality
+* Product categories section
+* Deals and offers section
+* Clean and reusable React components
+* Styled using Tailwind CSS
+* Fast deployment using Netlify
+## 👩‍💻 Author
+
+**Hafiza Sadia**
+
+GitHub:
+https://github.com/Hafiza-sadia
